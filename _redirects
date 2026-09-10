@@ -1,6 +1,7 @@
 /studio.html /studio/ 301
 /edit-house.html /edit-house/ 301
-/ecommerce.html /ecommerce/ 301
+/ecommerce.html / 302
+/ecommerce/* / 302
 /web-tools.html /tools/ 301
 /content-video.html /services/content-video/ 301
 /poster-portfolio.html /work/posters/ 301
