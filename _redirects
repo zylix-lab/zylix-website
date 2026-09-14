@@ -1,6 +1,13 @@
 /studio.html /studio/ 301
 /edit-house.html /edit-house/ 301
+/tools.html /tools/ 301
+/work.html /work/ 301
+/capabilities.html /capabilities/ 301
+/about.html /about/ 301
+/start-project.html /start-project/ 301
 /ecommerce.html / 302
+/ecommerce / 302
+/ecommerce/ / 302
 /ecommerce/* / 302
 /web-tools.html /tools/ 301
 /content-video.html /services/content-video/ 301
